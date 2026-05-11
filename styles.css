@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(17, 35, 77);
+}
+
+p{
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: rgb(151, 186, 234);
+}
+
+.container{
+    opacity: 100px;
+    padding: 30px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    width: 700px;
+    text-align: left;
+}
+
